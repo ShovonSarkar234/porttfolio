@@ -118,6 +118,12 @@ li a {
     border-radius: 6px;
     padding: 10px 15px;
     color: #fff8f3;
+    
+}
+
+.btn-3:hover {
+    color: black;
+    background-color: aqua;
 }
 
 .dev-img {
